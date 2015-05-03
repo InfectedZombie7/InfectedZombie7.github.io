@@ -1,0 +1,14 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  margin-top: 128px;
+}
+
+.container > p {
+  font-weight: 200;
+  font-size: 25px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
