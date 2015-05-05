@@ -1,0 +1,5 @@
+# This is an example comment
+User-agent: *
+Disallow: /img
+Disallow: /misc
+Allow: /index.html
